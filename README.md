@@ -1,8 +1,8 @@
-# Chat backend
+# Chat frontend
 
 This is the chat frontend (HTML, JS - NO FRAMEWORK)
 
-The frontend is available at:
+The backend is available at:
 
 https://github.com/ArielBarkan/spike_chat_server
 
